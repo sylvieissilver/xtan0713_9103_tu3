@@ -13,9 +13,11 @@ After that, from my understanding, we get familiar with Mondrian’s pallet not 
   
 Link: https://openprocessing.org/sketch/147828
 
+
 Part2:Coding Technique Exploration
 
 For the ‘elevator effects’, I am going to apply translate() function to let them move, combing with foundation as class, fuction and for loop to achieve the purpose of multiple color blocks moving simultaneously and interestingly.
+
 Link: https://p5js.org/examples/transform-translate.html
 
 In terms of the interactive liner, the basic one it’s motion linear, however, I am going to explore split() to create boundaries between lines, float() to identify the angles, and void operator to add keypress to create such interaction. In addition, adding class foundation to manage the continuously running lines.
